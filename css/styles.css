@@ -221,14 +221,7 @@ footer {
 	.library_item {
 		flex: 50%;
 	}
-	nav a {
-	background-color: black;
-	overflow: hidden;
-	display: block;
-	padding: 20px;
-	text-align: center;
-	
-	}
+
 
 }
 
